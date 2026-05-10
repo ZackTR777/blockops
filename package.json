@@ -1,0 +1,12 @@
+{
+  "name": "block-ops-online",
+  "version": "1.0.0",
+  "description": "Block Ops – Online 3D shooter relay server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "socket.io": "^4.8.3"
+  }
+}
